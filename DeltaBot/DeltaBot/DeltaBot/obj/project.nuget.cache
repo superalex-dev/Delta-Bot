@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "9sOhidSWEmOWwmUySApWzfRbeDd5xiN7G4UIo2w3iEc/U628SA/nRZqwx7Rqw2QlJNq672a2mMtY5jMrH3YVlA==",
+  "dgSpecHash": "hARzNcX7uqfNcOLSjAO9mpITr4z+UcgdoAyhlOdxBNpX6bmBXmPxiOE9LqZhmcSnQCAA6zPhk4N03M6CLhnXew==",
   "success": true,
   "projectFilePath": "C:\\Users\\naido\\Desktop\\Delta-Bot\\DeltaBot\\DeltaBot\\DeltaBot\\DeltaBot.csproj",
   "expectedPackageFiles": [
@@ -11,12 +11,15 @@
     "C:\\Users\\naido\\.nuget\\packages\\discord.net.rest\\3.8.1\\discord.net.rest.3.8.1.nupkg.sha512",
     "C:\\Users\\naido\\.nuget\\packages\\discord.net.webhook\\3.8.1\\discord.net.webhook.3.8.1.nupkg.sha512",
     "C:\\Users\\naido\\.nuget\\packages\\discord.net.websocket\\3.8.1\\discord.net.websocket.3.8.1.nupkg.sha512",
-    "C:\\Users\\naido\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\naido\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",
+    "C:\\Users\\naido\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "C:\\Users\\naido\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
     "C:\\Users\\naido\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
-    "C:\\Users\\naido\\.nuget\\packages\\system.collections.immutable\\5.0.0\\system.collections.immutable.5.0.0.nupkg.sha512",
-    "C:\\Users\\naido\\.nuget\\packages\\system.interactive.async\\5.0.0\\system.interactive.async.5.0.0.nupkg.sha512",
-    "C:\\Users\\naido\\.nuget\\packages\\system.linq.async\\5.0.0\\system.linq.async.5.0.0.nupkg.sha512",
+    "C:\\Users\\naido\\.nuget\\packages\\system.collections.immutable\\7.0.0\\system.collections.immutable.7.0.0.nupkg.sha512",
+    "C:\\Users\\naido\\.nuget\\packages\\system.interactive.async\\6.0.1\\system.interactive.async.6.0.1.nupkg.sha512",
+    "C:\\Users\\naido\\.nuget\\packages\\system.linq.async\\6.0.1\\system.linq.async.6.0.1.nupkg.sha512",
     "C:\\Users\\naido\\.nuget\\packages\\system.reactive\\5.0.0\\system.reactive.5.0.0.nupkg.sha512",
+    "C:\\Users\\naido\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
     "C:\\Users\\naido\\.nuget\\packages\\system.valuetuple\\4.5.0\\system.valuetuple.4.5.0.nupkg.sha512"
   ],
   "logs": []

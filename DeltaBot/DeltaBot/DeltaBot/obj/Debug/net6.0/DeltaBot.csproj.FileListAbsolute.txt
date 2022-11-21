@@ -25,3 +25,6 @@ C:\Users\naido\Desktop\Delta-Bot\DeltaBot\DeltaBot\DeltaBot\obj\Debug\net6.0\ref
 C:\Users\naido\Desktop\Delta-Bot\DeltaBot\DeltaBot\DeltaBot\obj\Debug\net6.0\DeltaBot.pdb
 C:\Users\naido\Desktop\Delta-Bot\DeltaBot\DeltaBot\DeltaBot\obj\Debug\net6.0\DeltaBot.genruntimeconfig.cache
 C:\Users\naido\Desktop\Delta-Bot\DeltaBot\DeltaBot\DeltaBot\obj\Debug\net6.0\ref\DeltaBot.dll
+C:\Users\naido\Desktop\Delta-Bot\DeltaBot\DeltaBot\DeltaBot\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\naido\Desktop\Delta-Bot\DeltaBot\DeltaBot\DeltaBot\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\naido\Desktop\Delta-Bot\DeltaBot\DeltaBot\DeltaBot\bin\Debug\net6.0\System.Collections.Immutable.dll
